@@ -10,7 +10,7 @@
 
 ---
 
-Download this gist https://gist.github.com/conradmuan/1cafbfc61dbbd8c97c9793aae0558cea. 
+Clone this repo https://github.com/conradmuan/enough-vim
 This will be our playground
 
 ---
